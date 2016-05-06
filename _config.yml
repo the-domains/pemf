@@ -1,0 +1,28 @@
+name: pemf
+favicon: null
+layout_spectrum: 0.03271966357715428
+typography_spectrum: 0.024551332462579012
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.39549097022973
+  lightness: 0.46237339824438095
+  saturation: 0.6728259802330285
+  rhythmicContrast: 0.09064227109774947
+purpose: []
