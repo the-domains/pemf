@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[pemf]]></title>
+        <description><![CDATA[pemf]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 06 May 2016 09:34:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is PEMF?]]></title>
+            <description><![CDATA[<article><h1>What is PEMF?</h1><p>Pulsed electromagnetic field therapy (PEMFT), also called pulsed magnetic therapy, pulse magnetotherapy, or PEMF, is a reparative technique most commonly used in the field of orthopedics for the treatment of non-union fractures, failed fusions, congenital pseudarthrosis and depression.[1] In the case of bone healing, PEMF uses directed pulsed magnetic fields through injured tissue. This is believed to stimulate cellular repair. The FDA has approved several such stimulation devices. These devices provide a complementary solution that may aid in bone repair.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd96be8d-3ca1-4d38-b60e-edff0f14dd4a.jpg"></article>]]></description>
+            <link>undefinedwhat-is-pemf/index.html</link>
+            <guid isPermaLink="false">3ce63010-7ceb-4178-9468-85f56d3cb169</guid>
+            <pubDate>Fri, 06 May 2016 09:33:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
