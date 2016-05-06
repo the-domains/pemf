@@ -1,7 +1,7 @@
 name: pemf
 favicon: null
-layout_spectrum: 0.03271966357715428
-typography_spectrum: 0.024551332462579012
+layout_spectrum: 0.96748
+typography_spectrum: 0.68941
 title: Health Electric
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.39549097022973
+    - '#ed1c24'
+    - '#29b34b'
+    - '#008000'
+    - '#000000'
+    - '#00ff00'
+  brandStrength: 0.5
   lightness: 0.46237339824438095
   saturation: 0.6728259802330285
-  rhythmicContrast: 0.09064227109774947
+  rhythmicContrast: 0.5
 purpose: []
