@@ -1,5 +1,8 @@
+name: pemf
+favicon: null
+layout_spectrum: 0.7843488
+typography_spectrum: 0.68941
 title: Health Electric
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-28806933-4
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5
-  brandStrength: 0
-  rhythmicContrast: 0.5
   brandColors:
     - '#ed1c24'
     - '#29b34b'
     - '#008000'
     - '#000000'
     - '#00ff00'
+  brandStrength: 0
   lightness: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: pemf
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.68941
-layout_spectrum: 0.7843488
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
